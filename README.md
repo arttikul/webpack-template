@@ -12,7 +12,7 @@
 
 ``` bash
 # Download repository:
-git clone https://github.com/vedees/webpack-template webpack-template
+git clone https://github.com/arttikul/webpack-template webpack-template
 
 # Go to the app:
 cd webpack-template
